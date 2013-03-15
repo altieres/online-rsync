@@ -1,0 +1,6 @@
+host = 'remotehost.domain'
+username = 'user'
+password = 'pass'
+absolut_local_path = '/Users/you/path/'
+remote_path = '~/remote/path/'
+absolut_remote_path = '/home/remoteuser/remote/path/'
